@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1385256284 source:e:\codes\snippets\knigts\main.cpp
+	<iostream>
+	<cstdlib>
+	"Knights.h"
+
+1385256563 source:e:\codes\snippets\knigts\knights.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Knights.h"
+
+1385260694 e:\codes\snippets\knigts\knights.h
+	<vector>
+
