@@ -9,9 +9,9 @@ A homework from 《计算机算法设计与分析》（王晓东编著）。
 
 这个大问题其实还可以分为两类不同的子问题：
 
-* 给定任意棋盘和任意骑士初始位置，找出所有可能的环路或回路。这个是一个NP-Hard问题，棋盘越 大，越困难。一般用于验证一个算法能够在有限时间和空间下能够找到最大的棋盘是多大；
+* 给定任意棋盘和任意骑士初始位置，找出所有可能的环路或回路。这个是一个NP-Hard问题，棋盘越大，越困难。一般用于验证一个算法能够在有限时间和空间下能够找到最大的棋盘是多大；
 
-* 还有一类则是只需找出一条环路或回路即可。
+* 还有一类则是只需找出一条环路或回路即可，有[线性时间的方法,*"Solution of the Knight's Hamiltonian Path Problem on Chessboards"*][Solution]。
 
 当然，以上两个问题都存在一个共同点，任意棋盘，并 不是都能够找到回路的。有文献证明，棋盘大小是奇数，是无解的。
 
@@ -19,6 +19,7 @@ A homework from 《计算机算法设计与分析》（王晓东编著）。
 
 [Knight'sTour]:http://en.wikipedia.org/wiki/Knight%27s_tour
 
+[Solution]: http://www.sciencedirect.com/science/article/pii/0166218X9200170Q
 
 ###分治法求解
 
