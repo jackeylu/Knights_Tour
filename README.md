@@ -1,11 +1,11 @@
-Knights_Tour
+Knight's_Tour
 ============
 
 A divide and conquer solution for Knight's Tour Problem
 
 A homework from 《计算机算法设计与分析》（王晓东编著）。
 
-通过搜索一些资料，发现在 wikipedia上称马周游问题为[**Knight Tour（骑士周游）**][Knight'sTour]问题，已经有不少研究，也有不少方法提 出。这个问题一般都是归结为图论中的**Hamilton问题**，该问题包括了走一个环路，和不用闭环的 路。
+通过搜索一些资料，发现在 wikipedia上称马周游问题为[**Knight's Tour（骑士周游）**][Knight'sTour]问题，已经有不少研究，也有不少方法提 出。这个问题一般都是归结为图论中的**Hamilton问题**，该问题包括了走一个环路，和不用闭环的 路。
 
 这个大问题其实还可以分为两类不同的子问题：
 
